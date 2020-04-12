@@ -1,0 +1,29 @@
+2020-04-11 21:58:29,445:INFO:Created Employee: John Smith - John.Smith@email.com
+2020-04-11 21:58:29,445:INFO:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-11 21:58:29,445:INFO:Created Employee: Jane Doe - Jane.Doe@email.com
+2020-04-11 22:03:58,881:INFO:Created Employee: John Smith - John.Smith@email.com
+2020-04-11 22:03:58,882:INFO:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-11 22:03:58,882:INFO:Created Employee: Jane Doe - Jane.Doe@email.com
+2020-04-11 22:03:58,882:INFO:Add: 10 + 5 = 15
+2020-04-11 22:03:58,882:INFO:Sub: 10 - 5 = 5
+2020-04-11 22:03:58,882:INFO:Mul: 10 * 5 = 50
+2020-04-11 22:03:58,883:INFO:Div: 10 / 5 = 2.0
+2020-04-11 22:04:12,404:INFO:Created Employee: John Smith - John.Smith@email.com
+2020-04-11 22:04:12,404:INFO:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-11 22:04:12,404:INFO:Created Employee: Jane Doe - Jane.Doe@email.com
+2020-04-11 22:04:12,405:INFO:Add: 10 + 5 = 15
+2020-04-11 22:04:12,405:INFO:Sub: 10 - 5 = 5
+2020-04-11 22:04:12,405:INFO:Mul: 10 * 5 = 50
+2020-04-11 22:04:12,405:INFO:Div: 10 / 5 = 2.0
+2020-04-12 14:46:40,536:INFO:Created Employee: John Smith - John.Smith@email.com
+2020-04-12 14:46:40,537:INFO:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-12 14:46:40,537:INFO:Created Employee: Jane Doe - Jane.Doe@email.com
+2020-04-12 14:47:30,727:INFO:Created Employee: John Smith - John.Smith@email.com
+2020-04-12 14:47:30,727:INFO:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-12 14:47:30,727:INFO:Created Employee: Jane Doe - Jane.Doe@email.com
+2020-04-12 14:48:35,732:INFO:__main__:Created Employee: John Smith - John.Smith@email.com
+2020-04-12 14:48:35,732:INFO:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+2020-04-12 14:48:35,732:INFO:__main__:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:__main__:Created Employee: John Smith - John.Smith@email.com
+INFO:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:__main__:Created Employee: Jane Doe - Jane.Doe@email.com

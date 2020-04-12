@@ -1,0 +1,27 @@
+INFO:__main__:Created Employee: John Smith - John.Smith@email.com
+INFO:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:__main__:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com          # because employee2 is imported
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee2:Created Employee: John Smith - John.Smith@email.com
+INFO:employee2:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee2:Created Employee: Jane Doe - Jane.Doe@email.com
